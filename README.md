@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kenan Ufuk Incik</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ufukincik&label=Profile%20views&color=0e75b6&style=flat" alt="ufukincik" /> </p>
-
-<p align="left"> <a href="https://twitter.com/incikufuk" target="blank"><img src="https://img.shields.io/twitter/follow/incikufuk?logo=twitter&style=for-the-badge" alt="incikufuk" /></a> </p>
-
-- 📫 How to reach me **kenanincikbusiness@gmail.com**
+📫 How to reach me: **kenanincikbusiness@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
